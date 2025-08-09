@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> Westview High School, San Diego
 
 profile:
   align: right
-  image: 
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Westview High School </p>
