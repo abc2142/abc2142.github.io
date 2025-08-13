@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a> Westview High School, San Diego
+subtitle: Student at Westview High School
 
 profile:
   align: right
