@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-einsum-in-7-minutes",
+        },{id: "post-einsum",
         
-          title: "Einsum in 7 minutes",
+          title: "Einsum",
         
         description: "Einsum tutorial",
         section: "Posts",
