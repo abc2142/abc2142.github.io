@@ -46,7 +46,16 @@
 - title: Clubs/Sports
   type: time_table
   contents:
+  
+    - title: Westview High School Science Olympiad 
+      institution: Westview High School, San Diego, CA
+      year: 2022 --
 
+    - title: Mathematica (Math club)
+      institution: Westview High School, San Diego, CA
+      year: 2022 -- 
+
+    
     - title: Track and Field
       institution: Westview High School, San Diego, CA
       year: 2023 -- 
@@ -56,16 +65,6 @@
       institution: Westview High School, San Diego, CA
       year: 2022 -- 
       
-
-
-    - title: Westview High School Science Olympiad 
-      institution: Westview High School, San Diego, CA
-      year: 2022 --
-
-    - title: Mathematica (Math club)
-      institution: Westview High School, San Diego, CA
-      year: 2022 -- 
-
 
 
 
