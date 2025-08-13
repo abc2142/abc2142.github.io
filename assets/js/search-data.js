@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-einsum-in-7-minutes",
+        
+          title: "Einsum in 7 minutes",
+        
+        description: "Einsum tutorial",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/einsum/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
